@@ -1,3 +1,7 @@
+.row{
+    color:white;
+    margin-left:20px;
+}
 .row__posters{
     display: flex;
     overflow-y: hidden;
@@ -14,7 +18,7 @@
     width: 100%;
     max-height:100px;
     margin-right: 10px;
-    transition: transfrom 450ms;
+    transition: transform 450ms;
 }
 
 .row__poster:hover {
@@ -23,7 +27,6 @@
 
 .row__posterLarge {
     max-height: 250px;
-    opacity: 1;
 }
 .row__posterLarge:hover{
     transform: scale(1.09);
