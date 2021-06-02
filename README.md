@@ -11,3 +11,4 @@ https://netflix-clone-b817b.web.app/
 ![netflix](https://user-images.githubusercontent.com/62605981/120474817-9d5c5a80-c3e3-11eb-9f87-5b5e0113854b.png)
 
 
+![netflix1](https://user-images.githubusercontent.com/62605981/120475854-dba64980-c3e4-11eb-9b03-6f9f6504659f.png)
