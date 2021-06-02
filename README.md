@@ -2,8 +2,10 @@
 
 ## 프로젝트 설명
 
-TMDB API 서버를 사용하여 Netflix를 만든다.
-서버와 axios 통신을 통하여 데이터를 받아온다.
+1. TMDB API 서버를 사용하여 Netflix를 만들며 학습한다.
+2. 서버와 axios 통신을 통하여 데이터를 받아온다.
+3. 서버로 받아온 data를 component화 하여 출력한다.
+4. 프로젝트를 진행하며 학습한 문법 및 기술을 정리하고 활용해본다.(옵셔널체이닝, destructuring, 짧은조건문...)
 ## URL
 https://netflix-clone-b817b.web.app/
 
